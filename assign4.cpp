@@ -140,7 +140,7 @@ int main()
     // Print the inorder traversal of the binary search tree
     inorder(root);
 
-    cout << "Code by Pranav Mehendale" << endl;
+    cout << "\nCode by Pranav Mehendale" << endl;
 
     return 0;
 }
