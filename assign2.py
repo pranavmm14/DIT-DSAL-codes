@@ -1,3 +1,13 @@
+"""
+Assignment -2
+
+Title:
+Implement all the functions of a dictionary (ADT) using hashing.
+Data: Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, Keys must be unique
+Standard Operations: Insert (key, value), Find(key), Delete(key)
+
+"""
+
 class Dictionary:
     def __init__(self, size=10):
         self.size = size
@@ -68,3 +78,5 @@ d.delete("banana")
 
 # Display all key-value pairs
 d.display()
+
+print("Code by Pranav Mehendale")
