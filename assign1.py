@@ -3,8 +3,9 @@ ASSIGNMENT NO.1
 
 Title:
 Consider telephone book database of N clients. Make use of a hash table implementation to
-quickly look up client's telephone number.
-
+quickly look up client's telephone number. Make use of two collision handling
+techniques and compare them using number of comparisons required to find a set of 
+telephone numbers.
 """
 
 # A class to represent a record of a contact
